@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2025-12-28T12:45:36.607Z",
+    "generated_at": "2025-12-28T13:24:51.713Z",
     "epoch": 165,
     "phase": "end",
     "source": "tla-admin-ext"
@@ -12,75 +12,21 @@
     },
     "total_vp": 5437465,
     "pools": {
-      "LUNA-USDC|Astroport": {
-        "current_vp": 5435655,
-        "optimized_vp": 5435655,
-        "current_pct": 99.96671521684057,
-        "optimized_pct": 99.96671521684057,
-        "bucket": "stable",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 100,
-            "optimized_pct": 100,
-            "current_vp": 4557860.283717742,
-            "optimized_vp": 4557860.283717742
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 100,
-            "optimized_pct": 100,
-            "current_vp": 877794.7843589855,
-            "optimized_vp": 877794.7843589855
-          }
-        ]
-      },
-      "LUNA-CAPA|Astroport": {
-        "current_vp": 1287080,
-        "optimized_vp": 1376613,
-        "current_pct": 23.670595652551462,
-        "optimized_pct": 25.317189717529136,
-        "bucket": "project",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 25.71,
-            "optimized_pct": 27.32,
-            "current_vp": 1171825.8789438314,
-            "optimized_vp": 1245207.4295116873
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 13.13,
-            "optimized_pct": 14.97,
-            "current_vp": 115254.45518633479,
-            "optimized_vp": 131405.87921854013
-          }
-        ]
-      },
       "LUNA-FUEL|Astroport": {
         "current_vp": 1478454,
-        "optimized_vp": 1399739,
-        "current_pct": 27.19013610244479,
-        "optimized_pct": 25.742492101794735,
+        "optimized_vp": 1399283,
+        "current_pct": 27.190136102444797,
+        "optimized_pct": 25.73410977592464,
         "bucket": "project",
         "lockup_contributions": [
           {
             "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 18.18,
-            "optimized_pct": 17.78,
-            "current_vp": 828618.9995798855,
-            "optimized_vp": 810387.5584450146
+            "duration": "1wk",
+            "lockup_vp": 1583.6634855669495,
+            "current_pct": 100,
+            "optimized_pct": 0,
+            "current_vp": 1583.6634855669495,
+            "optimized_vp": 0
           },
           {
             "type": "ampLUNA",
@@ -93,102 +39,30 @@
           },
           {
             "type": "arbLUNA",
-            "duration": "1wk",
-            "lockup_vp": 1583.6634855669495,
-            "current_pct": 100,
-            "optimized_pct": 0,
-            "current_vp": 1583.6634855669495,
-            "optimized_vp": 0
-          }
-        ]
-      },
-      "USDC-SOLID|Astroport": {
-        "current_vp": 751591,
-        "optimized_vp": 826634,
-        "current_pct": 13.82245535978769,
-        "optimized_pct": 15.202555867413578,
-        "bucket": "project",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
             "duration": "Max",
             "lockup_vp": 4557860.283717742,
-            "current_pct": 16.49,
-            "optimized_pct": 17.94,
-            "current_vp": 751591.1607850556,
-            "optimized_vp": 817680.1348989629
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 0,
-            "optimized_pct": 1.02,
-            "current_vp": 0,
-            "optimized_vp": 8953.506800461653
-          }
-        ]
-      },
-      "LUNA-ASTRO|Astroport": {
-        "current_vp": 711938,
-        "optimized_vp": 640379,
-        "current_pct": 13.09319300908937,
-        "optimized_pct": 11.777167847484359,
-        "bucket": "project",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 15.62,
-            "optimized_pct": 14.05,
-            "current_vp": 711937.7763167113,
-            "optimized_vp": 640379.3698623428
-          }
-        ]
-      },
-      "LUNA-SOLID|Astroport": {
-        "current_vp": 549109,
-        "optimized_vp": 468429,
-        "current_pct": 10.098616918439362,
-        "optimized_pct": 8.614837762882988,
-        "bucket": "project",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 9.54,
-            "optimized_pct": 8.91,
-            "current_vp": 434819.87106667255,
-            "optimized_vp": 406105.3512792508
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 13.02,
-            "optimized_pct": 7.1,
-            "current_vp": 114288.8809235399,
-            "optimized_vp": 62323.429689487966
+            "current_pct": 18.18,
+            "optimized_pct": 17.77,
+            "current_vp": 828618.9995798855,
+            "optimized_vp": 809931.7724166428
           }
         ]
       },
       "LUNA-SWTH|Astroport": {
         "current_vp": 358248,
         "optimized_vp": 553981,
-        "current_pct": 6.588508133895164,
-        "optimized_pct": 10.188228080558629,
+        "current_pct": 6.588508133895166,
+        "optimized_pct": 10.18822808055863,
         "bucket": "project",
         "lockup_contributions": [
           {
             "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 7.86,
-            "optimized_pct": 10.24,
-            "current_vp": 358247.81830021454,
-            "optimized_vp": 466724.89305269683
+            "duration": "1wk",
+            "lockup_vp": 1583.6634855669495,
+            "current_pct": 0,
+            "optimized_pct": 100,
+            "current_vp": 0,
+            "optimized_vp": 1583.6634855669495
           },
           {
             "type": "ampLUNA",
@@ -201,146 +75,29 @@
           },
           {
             "type": "arbLUNA",
-            "duration": "1wk",
-            "lockup_vp": 1583.6634855669495,
-            "current_pct": 0,
-            "optimized_pct": 100,
-            "current_vp": 0,
-            "optimized_vp": 1583.6634855669495
-          }
-        ]
-      },
-      "LUNA-ampLUNA|Astroport": {
-        "current_vp": 300819,
-        "optimized_vp": 171376,
-        "current_pct": 5.532335074263115,
-        "optimized_pct": 3.1517545271559553,
-        "bucket": "project",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
             "duration": "Max",
             "lockup_vp": 4557860.283717742,
-            "current_pct": 6.6,
-            "optimized_pct": 3.76,
-            "current_vp": 300818.778725371,
-            "optimized_vp": 171375.54666778707
-          }
-        ]
-      },
-      "LUNA-PAXG.atom|Astroport": {
-        "current_vp": 2400170,
-        "optimized_vp": 2611259,
-        "current_pct": 44.1413444797419,
-        "optimized_pct": 48.023458174914865,
-        "bucket": "bluechip",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 41.07,
-            "optimized_pct": 44.28,
-            "current_vp": 1871913.2185228767,
-            "optimized_vp": 2018220.5336302163
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 60.18,
-            "optimized_pct": 67.56,
-            "current_vp": 528256.9012272374,
-            "optimized_vp": 593038.1563129306
-          }
-        ]
-      },
-      "LUNA-wBTC.atom|Astroport": {
-        "current_vp": 1642197,
-        "optimized_vp": 1396073,
-        "current_pct": 30.20152010995455,
-        "optimized_pct": 25.67506414010291,
-        "bucket": "bluechip",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 36.03,
-            "optimized_pct": 30.63,
-            "current_vp": 1642197.0602235026,
-            "optimized_vp": 1396072.6049027445
-          }
-        ]
-      },
-      "LUNA-wstETH|Astroport": {
-        "current_vp": 541474,
-        "optimized_vp": 1142408,
-        "current_pct": 9.958203133673607,
-        "optimized_pct": 21.009933897095774,
-        "bucket": "bluechip",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 11.88,
-            "optimized_pct": 18.84,
-            "current_vp": 541473.8017056677,
-            "optimized_vp": 858700.8774524226
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 0,
-            "optimized_pct": 32.14,
-            "current_vp": 0,
-            "optimized_vp": 282123.24369297794
-          },
-          {
-            "type": "arbLUNA",
-            "duration": "1wk",
-            "lockup_vp": 1583.6634855669495,
-            "current_pct": 0,
-            "optimized_pct": 100,
-            "current_vp": 0,
-            "optimized_vp": 1583.6634855669495
-          }
-        ]
-      },
-      "LUNA-ATOM|Astroport": {
-        "current_vp": 496351,
-        "optimized_vp": 285322,
-        "current_pct": 9.12835287253414,
-        "optimized_pct": 5.2473359946798634,
-        "bucket": "bluechip",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 10.89,
-            "optimized_pct": 6.26,
-            "current_vp": 496350.9848968622,
-            "optimized_vp": 285322.05376073066
+            "current_pct": 7.86,
+            "optimized_pct": 10.24,
+            "current_vp": 358247.81830021454,
+            "optimized_vp": 466724.89305269683
           }
         ]
       },
       "LUNA-WBTC.axl|Astroport": {
         "current_vp": 357047,
         "optimized_vp": 2633,
-        "current_pct": 6.566419654566763,
-        "optimized_pct": 0.04843036954765285,
+        "current_pct": 6.566419654566764,
+        "optimized_pct": 0.04843036954765286,
         "bucket": "bluechip",
         "lockup_contributions": [
           {
             "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 0.13,
+            "duration": "1wk",
+            "lockup_vp": 1583.6634855669495,
+            "current_pct": 100,
             "optimized_pct": 0,
-            "current_vp": 5925.218368833064,
+            "current_vp": 1583.6634855669495,
             "optimized_vp": 0
           },
           {
@@ -354,30 +111,66 @@
           },
           {
             "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 0.13,
+            "optimized_pct": 0,
+            "current_vp": 5925.218368833064,
+            "optimized_vp": 0
+          }
+        ]
+      },
+      "LUNA-wstETH|Astroport": {
+        "current_vp": 541474,
+        "optimized_vp": 1142408,
+        "current_pct": 9.958203133673608,
+        "optimized_pct": 21.009933897095774,
+        "bucket": "bluechip",
+        "lockup_contributions": [
+          {
+            "type": "arbLUNA",
             "duration": "1wk",
             "lockup_vp": 1583.6634855669495,
-            "current_pct": 100,
-            "optimized_pct": 0,
-            "current_vp": 1583.6634855669495,
-            "optimized_vp": 0
+            "current_pct": 0,
+            "optimized_pct": 100,
+            "current_vp": 0,
+            "optimized_vp": 1583.6634855669495
+          },
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 0,
+            "optimized_pct": 32.14,
+            "current_vp": 0,
+            "optimized_vp": 282123.24369297794
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 11.88,
+            "optimized_pct": 18.84,
+            "current_vp": 541473.8017056677,
+            "optimized_vp": 858700.8774524226
           }
         ]
       },
       "WBTC.axl-WBTC.osmo|Astroport": {
         "current_vp": 2413923,
         "optimized_vp": 2289062,
-        "current_pct": 44.394265221667084,
-        "optimized_pct": 42.09795864969198,
+        "current_pct": 44.39426522166709,
+        "optimized_pct": 42.09795864969199,
         "bucket": "single",
         "lockup_contributions": [
           {
             "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 42.61,
-            "optimized_pct": 41.29,
-            "current_vp": 1942104.2668921298,
-            "optimized_vp": 1881940.5111470558
+            "duration": "1wk",
+            "lockup_vp": 1583.6634855669495,
+            "current_pct": 100,
+            "optimized_pct": 0,
+            "current_vp": 1583.6634855669495,
+            "optimized_vp": 0
           },
           {
             "type": "ampLUNA",
@@ -390,129 +183,30 @@
           },
           {
             "type": "arbLUNA",
-            "duration": "1wk",
-            "lockup_vp": 1583.6634855669495,
-            "current_pct": 100,
-            "optimized_pct": 0,
-            "current_vp": 1583.6634855669495,
-            "optimized_vp": 0
-          }
-        ]
-      },
-      "ampCAPA|Astroport": {
-        "current_vp": 1381032,
-        "optimized_vp": 1532145,
-        "current_pct": 25.398447386389755,
-        "optimized_pct": 28.177568188376544,
-        "bucket": "single",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
             "duration": "Max",
             "lockup_vp": 4557860.283717742,
-            "current_pct": 30.3,
-            "optimized_pct": 31.99,
-            "current_vp": 1381031.6659664758,
-            "optimized_vp": 1458059.5047613056
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 0,
-            "optimized_pct": 8.44,
-            "current_vp": 0,
-            "optimized_vp": 74085.87979989836
-          }
-        ]
-      },
-      "USDC-USDt|Astroport": {
-        "current_vp": 967856,
-        "optimized_vp": 751724,
-        "current_pct": 17.799765922849737,
-        "optimized_pct": 13.824902044104434,
-        "bucket": "single",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 16.32,
-            "optimized_pct": 13.97,
-            "current_vp": 743842.7983027356,
-            "optimized_vp": 636733.0816353686
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 25.52,
-            "optimized_pct": 13.1,
-            "current_vp": 224013.22896841308,
-            "optimized_vp": 114991.1167510271
-          }
-        ]
-      },
-      "wstETH-WETH.axl|Astroport": {
-        "current_vp": 474473,
-        "optimized_vp": 588257,
-        "current_pct": 8.72600123076955,
-        "optimized_pct": 10.81858419872137,
-        "bucket": "single",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 10.41,
-            "optimized_pct": 11.67,
-            "current_vp": 474473.25553501694,
-            "optimized_vp": 531902.2951098605
-          },
-          {
-            "type": "ampLUNA",
-            "duration": "Max",
-            "lockup_vp": 877794.7843589855,
-            "current_pct": 0,
-            "optimized_pct": 6.42,
-            "current_vp": 0,
-            "optimized_vp": 56354.42515584686
-          }
-        ]
-      },
-      "ampROAR-ROAR|Astroport": {
-        "current_vp": 15041,
-        "optimized_vp": 6381,
-        "current_pct": 0.27661675371315575,
-        "optimized_pct": 0.1173525621813388,
-        "bucket": "single",
-        "lockup_contributions": [
-          {
-            "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 0.33,
-            "optimized_pct": 0.14,
-            "current_vp": 15040.938936268549,
-            "optimized_vp": 6381.00439720484
+            "current_pct": 42.61,
+            "optimized_pct": 41.29,
+            "current_vp": 1942104.2668921298,
+            "optimized_vp": 1881940.5111470558
           }
         ]
       },
       "LUNA-arbLUNA|Astroport": {
         "current_vp": 184914,
         "optimized_vp": 269670,
-        "current_pct": 3.4007437350816914,
-        "optimized_pct": 4.959474607395294,
+        "current_pct": 3.400743735081692,
+        "optimized_pct": 4.959474607395296,
         "bucket": "single",
         "lockup_contributions": [
           {
             "type": "arbLUNA",
-            "duration": "Max",
-            "lockup_vp": 4557860.283717742,
-            "current_pct": 0.03,
-            "optimized_pct": 0.94,
-            "current_vp": 1367.3580851153226,
-            "optimized_vp": 42843.88666694677
+            "duration": "1wk",
+            "lockup_vp": 1583.6634855669495,
+            "current_pct": 0,
+            "optimized_pct": 100,
+            "current_vp": 0,
+            "optimized_vp": 1583.6634855669495
           },
           {
             "type": "ampLUNA",
@@ -525,27 +219,553 @@
           },
           {
             "type": "arbLUNA",
-            "duration": "1wk",
-            "lockup_vp": 1583.6634855669495,
-            "current_pct": 0,
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 0.03,
+            "optimized_pct": 0.94,
+            "current_vp": 1367.3580851153226,
+            "optimized_vp": 42843.88666694677
+          }
+        ]
+      },
+      "LUNA-USDC|Astroport": {
+        "current_vp": 5435655,
+        "optimized_vp": 5435655,
+        "current_pct": 99.96671521684058,
+        "optimized_pct": 99.96671521684058,
+        "bucket": "stable",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 100,
             "optimized_pct": 100,
+            "current_vp": 877794.7843589855,
+            "optimized_vp": 877794.7843589855
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 100,
+            "optimized_pct": 100,
+            "current_vp": 4557860.283717742,
+            "optimized_vp": 4557860.283717742
+          }
+        ]
+      },
+      "LUNA-CAPA|Astroport": {
+        "current_vp": 1287080,
+        "optimized_vp": 1376613,
+        "current_pct": 23.67059565255147,
+        "optimized_pct": 25.317189717529143,
+        "bucket": "project",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 13.13,
+            "optimized_pct": 14.97,
+            "current_vp": 115254.45518633479,
+            "optimized_vp": 131405.87921854013
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 25.71,
+            "optimized_pct": 27.32,
+            "current_vp": 1171825.8789438314,
+            "optimized_vp": 1245207.4295116873
+          }
+        ]
+      },
+      "LUNA-SOLID|Astroport": {
+        "current_vp": 549109,
+        "optimized_vp": 467973,
+        "current_pct": 10.098616918439363,
+        "optimized_pct": 8.606455437012896,
+        "bucket": "project",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 13.02,
+            "optimized_pct": 7.1,
+            "current_vp": 114288.8809235399,
+            "optimized_vp": 62323.429689487966
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 9.54,
+            "optimized_pct": 8.9,
+            "current_vp": 434819.87106667255,
+            "optimized_vp": 405649.5652508791
+          }
+        ]
+      },
+      "USDC-SOLID|Astroport": {
+        "current_vp": 751591,
+        "optimized_vp": 826721,
+        "current_pct": 13.822455359787691,
+        "optimized_pct": 15.204170213065169,
+        "bucket": "project",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 0,
+            "optimized_pct": 1.03,
             "current_vp": 0,
-            "optimized_vp": 1583.6634855669495
+            "optimized_vp": 9041.28627889755
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 16.49,
+            "optimized_pct": 17.94,
+            "current_vp": 751591.1607850556,
+            "optimized_vp": 817680.1348989629
+          }
+        ]
+      },
+      "LUNA-PAXG.atom|Astroport": {
+        "current_vp": 2400170,
+        "optimized_vp": 2611259,
+        "current_pct": 44.14134447974192,
+        "optimized_pct": 48.02345817491487,
+        "bucket": "bluechip",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 60.18,
+            "optimized_pct": 67.56,
+            "current_vp": 528256.9012272374,
+            "optimized_vp": 593038.1563129306
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 41.07,
+            "optimized_pct": 44.28,
+            "current_vp": 1871913.2185228767,
+            "optimized_vp": 2018220.5336302163
+          }
+        ]
+      },
+      "USDC-USDt|Astroport": {
+        "current_vp": 967856,
+        "optimized_vp": 751724,
+        "current_pct": 17.79976592284974,
+        "optimized_pct": 13.824902044104437,
+        "bucket": "single",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 25.52,
+            "optimized_pct": 13.1,
+            "current_vp": 224013.22896841308,
+            "optimized_vp": 114991.1167510271
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 16.32,
+            "optimized_pct": 13.97,
+            "current_vp": 743842.7983027356,
+            "optimized_vp": 636733.0816353686
+          }
+        ]
+      },
+      "wstETH-WETH.axl|Astroport": {
+        "current_vp": 474473,
+        "optimized_vp": 588257,
+        "current_pct": 8.726001230769551,
+        "optimized_pct": 10.818584198721371,
+        "bucket": "single",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 0,
+            "optimized_pct": 6.42,
+            "current_vp": 0,
+            "optimized_vp": 56354.42515584686
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 10.41,
+            "optimized_pct": 11.67,
+            "current_vp": 474473.25553501694,
+            "optimized_vp": 531902.2951098605
+          }
+        ]
+      },
+      "ampCAPA|Astroport": {
+        "current_vp": 1381032,
+        "optimized_vp": 1532233,
+        "current_pct": 25.398447386389755,
+        "optimized_pct": 28.17918253402814,
+        "bucket": "single",
+        "lockup_contributions": [
+          {
+            "type": "ampLUNA",
+            "duration": "Max",
+            "lockup_vp": 877794.7843589855,
+            "current_pct": 0,
+            "optimized_pct": 8.45,
+            "current_vp": 0,
+            "optimized_vp": 74173.65927833426
+          },
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 30.3,
+            "optimized_pct": 31.99,
+            "current_vp": 1381031.6659664758,
+            "optimized_vp": 1458059.5047613056
+          }
+        ]
+      },
+      "LUNA-ASTRO|Astroport": {
+        "current_vp": 711938,
+        "optimized_vp": 641291,
+        "current_pct": 13.093193009089374,
+        "optimized_pct": 11.793932499224551,
+        "bucket": "project",
+        "lockup_contributions": [
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 15.62,
+            "optimized_pct": 14.07,
+            "current_vp": 711937.7763167113,
+            "optimized_vp": 641290.9419190863
+          }
+        ]
+      },
+      "LUNA-ampLUNA|Astroport": {
+        "current_vp": 300819,
+        "optimized_vp": 170920,
+        "current_pct": 5.532335074263115,
+        "optimized_pct": 3.1433722012858616,
+        "bucket": "project",
+        "lockup_contributions": [
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 6.6,
+            "optimized_pct": 3.75,
+            "current_vp": 300818.778725371,
+            "optimized_vp": 170919.76063941533
+          }
+        ]
+      },
+      "LUNA-wBTC.atom|Astroport": {
+        "current_vp": 1642197,
+        "optimized_vp": 1396073,
+        "current_pct": 30.201520109954554,
+        "optimized_pct": 25.675064140102915,
+        "bucket": "bluechip",
+        "lockup_contributions": [
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 36.03,
+            "optimized_pct": 30.63,
+            "current_vp": 1642197.0602235026,
+            "optimized_vp": 1396072.6049027445
+          }
+        ]
+      },
+      "LUNA-ATOM|Astroport": {
+        "current_vp": 496351,
+        "optimized_vp": 285322,
+        "current_pct": 9.128352872534142,
+        "optimized_pct": 5.247335994679864,
+        "bucket": "bluechip",
+        "lockup_contributions": [
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 10.89,
+            "optimized_pct": 6.26,
+            "current_vp": 496350.9848968622,
+            "optimized_vp": 285322.05376073066
+          }
+        ]
+      },
+      "ampROAR-ROAR|Astroport": {
+        "current_vp": 15041,
+        "optimized_vp": 6381,
+        "current_pct": 0.2766167537131558,
+        "optimized_pct": 0.11735256218133883,
+        "bucket": "single",
+        "lockup_contributions": [
+          {
+            "type": "arbLUNA",
+            "duration": "Max",
+            "lockup_vp": 4557860.283717742,
+            "current_pct": 0.33,
+            "optimized_pct": 0.14,
+            "current_vp": 15040.938936268549,
+            "optimized_vp": 6381.00439720484
           }
         ]
       }
     },
     "lockups": [
       {
+        "type": "ampLUNA",
+        "duration": "3mo",
+        "amount": 0.5,
+        "luna": 0.9567890069968586,
+        "vp": 1.9135780139937173,
+        "usd": 0.1,
+        "lockApy": 33.19,
+        "lstApy": 29.28,
+        "votionApy": 3.9099999999999966,
+        "period": 0,
+        "expectedRewards": 0,
+        "buckets": []
+      },
+      {
+        "type": "ampLUNA",
+        "duration": "1wk",
+        "amount": 117.2,
+        "luna": 224.2713432400637,
+        "vp": 224.2713432400637,
+        "usd": 22.4,
+        "lockApy": 33.37,
+        "lstApy": 29.28,
+        "votionApy": 4.089999999999996,
+        "period": 0,
+        "expectedRewards": 0,
+        "buckets": []
+      },
+      {
+        "type": "arbLUNA",
+        "duration": "1wk",
+        "amount": 587.9,
+        "luna": 1583.6634855669495,
+        "vp": 1583.6634855669495,
+        "usd": 162.15,
+        "lockApy": 138.4,
+        "lstApy": 126.08,
+        "votionApy": 12.320000000000007,
+        "period": 0,
+        "expectedRewards": 0,
+        "buckets": [
+          {
+            "name": "PROJECT",
+            "expectedRewards": 0,
+            "pools": [
+              {
+                "name": "FUEL-LUNA",
+                "current": 100,
+                "optimized": 0,
+                "change": -100
+              },
+              {
+                "name": "SWTH-LUNA",
+                "current": 0,
+                "optimized": 100,
+                "change": 100
+              }
+            ]
+          },
+          {
+            "name": "BLUECHIP",
+            "expectedRewards": 0,
+            "pools": [
+              {
+                "name": "LUNA-WBTC.axl",
+                "current": 100,
+                "optimized": 0,
+                "change": -100
+              },
+              {
+                "name": "LUNA-wstETH",
+                "current": 0,
+                "optimized": 100,
+                "change": 100
+              }
+            ]
+          },
+          {
+            "name": "SINGLE",
+            "expectedRewards": 0,
+            "pools": [
+              {
+                "name": "WBTC.axl-WBTC.osmo",
+                "current": 100,
+                "optimized": 0,
+                "change": -100
+              },
+              {
+                "name": "LUNA-arbLUNA",
+                "current": 0,
+                "optimized": 100,
+                "change": 100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ampLUNA",
+        "duration": "Max",
+        "amount": 45871.91,
+        "luna": 87779.47843589855,
+        "vp": 877794.7843589855,
+        "usd": 8765.76,
+        "lockApy": 79.97,
+        "lstApy": 29.28,
+        "votionApy": 50.69,
+        "period": 0,
+        "expectedRewards": 0,
+        "buckets": [
+          {
+            "name": "STABLE",
+            "expectedRewards": 0,
+            "pools": [
+              {
+                "name": "LUNA-USDC",
+                "current": 100,
+                "optimized": 100,
+                "change": 0
+              }
+            ]
+          },
+          {
+            "name": "PROJECT",
+            "expectedRewards": 0,
+            "pools": [
+              {
+                "name": "FUEL-LUNA",
+                "current": 73.85,
+                "optimized": 67.14,
+                "change": -6.709999999999994
+              },
+              {
+                "name": "CAPA-LUNA",
+                "current": 13.13,
+                "optimized": 14.97,
+                "change": 1.8399999999999999
+              },
+              {
+                "name": "SOLID-LUNA",
+                "current": 13.02,
+                "optimized": 7.1,
+                "change": -5.92
+              },
+              {
+                "name": "SWTH-LUNA",
+                "current": 0,
+                "optimized": 9.76,
+                "change": 9.76
+              },
+              {
+                "name": "USDC-SOLID",
+                "current": 0,
+                "optimized": 1.03,
+                "change": 1.03
+              }
+            ]
+          },
+          {
+            "name": "BLUECHIP",
+            "expectedRewards": 0,
+            "pools": [
+              {
+                "name": "LUNA-PAXG.atom",
+                "current": 60.18,
+                "optimized": 67.56,
+                "change": 7.380000000000003
+              },
+              {
+                "name": "LUNA-WBTC.axl",
+                "current": 39.82,
+                "optimized": 0.3,
+                "change": -39.52
+              },
+              {
+                "name": "LUNA-wstETH",
+                "current": 0,
+                "optimized": 32.14,
+                "change": 32.14
+              }
+            ]
+          },
+          {
+            "name": "SINGLE",
+            "expectedRewards": 0,
+            "pools": [
+              {
+                "name": "WBTC.axl-WBTC.osmo",
+                "current": 53.57,
+                "optimized": 46.38,
+                "change": -7.189999999999998
+              },
+              {
+                "name": "USDC-USDt",
+                "current": 25.52,
+                "optimized": 13.1,
+                "change": -12.42
+              },
+              {
+                "name": "LUNA-arbLUNA",
+                "current": 20.91,
+                "optimized": 25.66,
+                "change": 4.75
+              },
+              {
+                "name": "wstETH-WETH.axl",
+                "current": 0,
+                "optimized": 6.42,
+                "change": 6.42
+              },
+              {
+                "name": "ampCAPA",
+                "current": 0,
+                "optimized": 8.45,
+                "change": 8.45
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "arbLUNA",
         "duration": "Max",
         "amount": 169200.47,
         "luna": 455786.02837177424,
         "vp": 4557860.283717742,
-        "usd": 46674.77,
+        "usd": 46667.02,
         "lockApy": 179.8,
-        "lstApy": 126.17,
-        "votionApy": 53.63000000000001,
+        "lstApy": 126.08,
+        "votionApy": 53.72000000000001,
         "period": 0,
         "expectedRewards": 0,
         "buckets": [
@@ -574,8 +794,8 @@
               {
                 "name": "FUEL-LUNA",
                 "current": 18.18,
-                "optimized": 17.78,
-                "change": -0.3999999999999986
+                "optimized": 17.77,
+                "change": -0.41000000000000014
               },
               {
                 "name": "USDC-SOLID",
@@ -586,14 +806,14 @@
               {
                 "name": "ASTRO-LUNA",
                 "current": 15.62,
-                "optimized": 14.05,
-                "change": -1.5699999999999985
+                "optimized": 14.07,
+                "change": -1.549999999999999
               },
               {
                 "name": "SOLID-LUNA",
                 "current": 9.54,
-                "optimized": 8.91,
-                "change": -0.629999999999999
+                "optimized": 8.9,
+                "change": -0.6399999999999988
               },
               {
                 "name": "SWTH-LUNA",
@@ -604,8 +824,8 @@
               {
                 "name": "LUNA-ampLUNA",
                 "current": 6.6,
-                "optimized": 3.76,
-                "change": -2.84
+                "optimized": 3.75,
+                "change": -2.8499999999999996
               }
             ]
           },
@@ -688,231 +908,11 @@
             ]
           }
         ]
-      },
-      {
-        "type": "ampLUNA",
-        "duration": "Max",
-        "amount": 45871.91,
-        "luna": 87779.47843589855,
-        "vp": 877794.7843589855,
-        "usd": 8769.5,
-        "lockApy": 79.97,
-        "lstApy": 29.28,
-        "votionApy": 50.69,
-        "period": 0,
-        "expectedRewards": 0,
-        "buckets": [
-          {
-            "name": "STABLE",
-            "expectedRewards": 0,
-            "pools": [
-              {
-                "name": "LUNA-USDC",
-                "current": 100,
-                "optimized": 100,
-                "change": 0
-              }
-            ]
-          },
-          {
-            "name": "PROJECT",
-            "expectedRewards": 0,
-            "pools": [
-              {
-                "name": "FUEL-LUNA",
-                "current": 73.85,
-                "optimized": 67.14,
-                "change": -6.709999999999994
-              },
-              {
-                "name": "CAPA-LUNA",
-                "current": 13.13,
-                "optimized": 14.97,
-                "change": 1.8399999999999999
-              },
-              {
-                "name": "SOLID-LUNA",
-                "current": 13.02,
-                "optimized": 7.1,
-                "change": -5.92
-              },
-              {
-                "name": "SWTH-LUNA",
-                "current": 0,
-                "optimized": 9.76,
-                "change": 9.76
-              },
-              {
-                "name": "USDC-SOLID",
-                "current": 0,
-                "optimized": 1.02,
-                "change": 1.02
-              }
-            ]
-          },
-          {
-            "name": "BLUECHIP",
-            "expectedRewards": 0,
-            "pools": [
-              {
-                "name": "LUNA-PAXG.atom",
-                "current": 60.18,
-                "optimized": 67.56,
-                "change": 7.380000000000003
-              },
-              {
-                "name": "LUNA-WBTC.axl",
-                "current": 39.82,
-                "optimized": 0.3,
-                "change": -39.52
-              },
-              {
-                "name": "LUNA-wstETH",
-                "current": 0,
-                "optimized": 32.14,
-                "change": 32.14
-              }
-            ]
-          },
-          {
-            "name": "SINGLE",
-            "expectedRewards": 0,
-            "pools": [
-              {
-                "name": "WBTC.axl-WBTC.osmo",
-                "current": 53.57,
-                "optimized": 46.38,
-                "change": -7.189999999999998
-              },
-              {
-                "name": "USDC-USDt",
-                "current": 25.52,
-                "optimized": 13.1,
-                "change": -12.42
-              },
-              {
-                "name": "LUNA-arbLUNA",
-                "current": 20.91,
-                "optimized": 25.66,
-                "change": 4.75
-              },
-              {
-                "name": "wstETH-WETH.axl",
-                "current": 0,
-                "optimized": 6.42,
-                "change": 6.42
-              },
-              {
-                "name": "ampCAPA",
-                "current": 0,
-                "optimized": 8.44,
-                "change": 8.44
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "arbLUNA",
-        "duration": "1wk",
-        "amount": 587.9,
-        "luna": 1583.6634855669495,
-        "vp": 1583.6634855669495,
-        "usd": 162.18,
-        "lockApy": 138.4,
-        "lstApy": 126.17,
-        "votionApy": 12.230000000000004,
-        "period": 0,
-        "expectedRewards": 0,
-        "buckets": [
-          {
-            "name": "PROJECT",
-            "expectedRewards": 0,
-            "pools": [
-              {
-                "name": "FUEL-LUNA",
-                "current": 100,
-                "optimized": 0,
-                "change": -100
-              },
-              {
-                "name": "SWTH-LUNA",
-                "current": 0,
-                "optimized": 100,
-                "change": 100
-              }
-            ]
-          },
-          {
-            "name": "BLUECHIP",
-            "expectedRewards": 0,
-            "pools": [
-              {
-                "name": "LUNA-WBTC.axl",
-                "current": 100,
-                "optimized": 0,
-                "change": -100
-              },
-              {
-                "name": "LUNA-wstETH",
-                "current": 0,
-                "optimized": 100,
-                "change": 100
-              }
-            ]
-          },
-          {
-            "name": "SINGLE",
-            "expectedRewards": 0,
-            "pools": [
-              {
-                "name": "WBTC.axl-WBTC.osmo",
-                "current": 100,
-                "optimized": 0,
-                "change": -100
-              },
-              {
-                "name": "LUNA-arbLUNA",
-                "current": 0,
-                "optimized": 100,
-                "change": 100
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "ampLUNA",
-        "duration": "1wk",
-        "amount": 117.2,
-        "luna": 224.2713432400637,
-        "vp": 224.2713432400637,
-        "usd": 22.41,
-        "lockApy": 33.37,
-        "lstApy": 29.28,
-        "votionApy": 4.089999999999996,
-        "period": 0,
-        "expectedRewards": 0,
-        "buckets": []
-      },
-      {
-        "type": "ampLUNA",
-        "duration": "3mo",
-        "amount": 0.5,
-        "luna": 0.9567890069968586,
-        "vp": 1.9135780139937173,
-        "usd": 0.1,
-        "lockApy": 33.19,
-        "lstApy": 29.28,
-        "votionApy": 3.9099999999999966,
-        "period": 0,
-        "expectedRewards": 0,
-        "buckets": []
       }
     ]
   },
   "lst_ratios": {
-    "snapshot_date": "2025-12-28T12:45:36.607Z",
+    "snapshot_date": "2025-12-28T13:24:51.713Z",
     "chain_staking_apr": 22.2949,
     "chain_staking_apr_date": "2025-12-28",
     "tokens": {
@@ -924,7 +924,7 @@
       "arbLUNA": {
         "ratio": 2.6937633705850477,
         "base": "LUNA",
-        "apy": 126.17
+        "apy": 126.08
       },
       "bLUNA": {
         "ratio": 1.6129997062253205,
@@ -950,11 +950,11 @@
   },
   "token_prices": {
     "ASTRO": {
-      "price": 0.00208369,
+      "price": 0.00203097,
       "source": "coingecko"
     },
     "CAPA": {
-      "price": 0.0009604,
+      "price": 0.0009608,
       "source": "coingecko"
     },
     "ATOM": {
@@ -966,23 +966,23 @@
       "source": "coingecko"
     },
     "INJ": {
-      "price": 4.79,
+      "price": 4.78,
       "source": "coingecko"
     },
     "ROAR": {
-      "price": 3.15819e-7,
+      "price": 3.15912e-7,
       "source": "coingecko"
     },
     "PAXG": {
-      "price": 4567.98,
+      "price": 4565.72,
       "source": "coingecko"
     },
     "SOLID": {
-      "price": 1.046,
+      "price": 1.045,
       "source": "coingecko"
     },
     "stATOM": {
-      "price": 3.65,
+      "price": 3.64,
       "source": "coingecko"
     },
     "stLUNA": {
@@ -990,15 +990,15 @@
       "source": "coingecko"
     },
     "SWTH": {
-      "price": 0.00054728,
+      "price": 0.00054723,
       "source": "coingecko"
     },
     "LUNA": {
-      "price": 0.102368,
+      "price": 0.102429,
       "source": "coingecko"
     },
     "USDT": {
-      "price": 0.999333,
+      "price": 0.999299,
       "source": "coingecko"
     },
     "USDC": {
@@ -1006,47 +1006,55 @@
       "source": "coingecko"
     },
     "wstETH": {
-      "price": 3590.91,
+      "price": 3593.52,
       "source": "coingecko"
     },
     "wBNB.axl": {
-      "price": 854.15,
+      "price": 855.98,
       "source": "bridged"
     },
     "wBTC.atom": {
-      "price": 87529,
+      "price": 87595,
       "source": "bridged"
     },
     "wBTC.axl": {
-      "price": 87529,
+      "price": 87595,
       "source": "bridged"
     },
     "wBTC.osmo": {
-      "price": 87529,
+      "price": 87595,
       "source": "bridged"
     },
     "wETH.axl": {
-      "price": 2936.96,
+      "price": 2938.52,
       "source": "bridged"
     },
     "ampLUNA": {
-      "price": 0.19588915413650884,
+      "price": 0.19600588239536249,
       "source": "calculated"
     },
     "arbLUNA": {
-      "price": 0.2757551687200502,
+      "price": 0.2759194882856559,
       "source": "calculated"
     },
     "bLUNA": {
-      "price": 0.1651195539268736,
+      "price": 0.16521794690895336,
       "source": "calculated"
     },
     "boneLUNA": {
-      "price": 0.1651195539268736,
+      "price": 0.16521794690895336,
+      "source": "calculated"
+    },
+    "ampCAPA": {
+      "price": 0.001062200663049775,
       "source": "calculated"
     },
     "ampROAR": {
-      "price": 3.501778892940499e-7,
+      "price": 3.502810070409376e-7,
+      "source": "calculated"
+    },
+    "xASTRO": {
+      "price": 0.0024777834,
       "source": "calculated"
     },
     "FUEL": {
@@ -1060,343 +1068,408 @@
       "dex": "Astroport",
       "bucket": "stable",
       "vote_pct": 5.7,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-EURe|Skeleton Swap": {
       "lp": "LUNA-EURe",
       "dex": "Skeleton Swap",
       "bucket": "stable",
       "vote_pct": 3.1,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-USDC|Astroport": {
       "lp": "LUNA-USDC",
       "dex": "Astroport",
       "bucket": "stable",
       "vote_pct": 76.6,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-USDC|Skeleton Swap": {
       "lp": "LUNA-USDC",
       "dex": "Skeleton Swap",
       "bucket": "stable",
       "vote_pct": 12.5,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-USDT|Astroport": {
       "lp": "LUNA-USDT",
       "dex": "Astroport",
       "bucket": "stable",
       "vote_pct": 1.8,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-USDT|Skeleton Swap": {
       "lp": "LUNA-USDT",
       "dex": "Skeleton Swap",
       "bucket": "stable",
       "vote_pct": 0.3,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-ASTRO|Astroport": {
       "lp": "LUNA-ASTRO",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 7.2,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-ASTRO|Skeleton Swap": {
       "lp": "LUNA-ASTRO",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-CAPA|Astroport": {
       "lp": "LUNA-CAPA",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 14.5,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-CAPA|Skeleton Swap": {
       "lp": "LUNA-CAPA",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0.1,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-FUEL|Astroport": {
       "lp": "LUNA-FUEL",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 10.6,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-ROAR|Astroport": {
       "lp": "LUNA-ROAR",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 6.6,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-ROAR|Skeleton Swap": {
       "lp": "LUNA-ROAR",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-SOLID|Astroport": {
       "lp": "LUNA-SOLID",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 6.1,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-SOLID|Skeleton Swap": {
       "lp": "LUNA-SOLID",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0.1,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-SWTH|Astroport": {
       "lp": "LUNA-SWTH",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 5.4,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-SWTH|Skeleton Swap": {
       "lp": "LUNA-SWTH",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-ampLUNA|Skeleton Swap": {
       "lp": "LUNA-ampLUNA",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-ampLUNA|Astroport": {
       "lp": "LUNA-ampLUNA",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 15.4,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-boneLUNA|Astroport": {
       "lp": "LUNA-boneLUNA",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 0.2,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-boneLUNA|Skeleton Swap": {
       "lp": "LUNA-boneLUNA",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 18,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-stLUNA|Astroport": {
       "lp": "LUNA-stLUNA",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 1.2,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-stLUNA|Skeleton Swap": {
       "lp": "LUNA-stLUNA",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "USDC-SOLID|Astroport": {
       "lp": "USDC-SOLID",
       "dex": "Astroport",
       "bucket": "project",
       "vote_pct": 14.5,
-      "active": true
+      "active": true,
+      "single": false
     },
     "USDC-SOLID|Skeleton Swap": {
       "lp": "USDC-SOLID",
       "dex": "Skeleton Swap",
       "bucket": "project",
       "vote_pct": 0.1,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-ATOM|Astroport": {
       "lp": "LUNA-ATOM",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 10.5,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-ATOM|Skeleton Swap": {
       "lp": "LUNA-ATOM",
       "dex": "Skeleton Swap",
       "bucket": "bluechip",
       "vote_pct": 2.4,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-INJ|Astroport": {
       "lp": "LUNA-INJ",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 0.3,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-INJ|Skeleton Swap": {
       "lp": "LUNA-INJ",
       "dex": "Skeleton Swap",
       "bucket": "bluechip",
       "vote_pct": 0.1,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-PAXG|Astroport": {
       "lp": "LUNA-PAXG",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 21.5,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-wBNB.axl|Astroport": {
       "lp": "LUNA-wBNB.axl",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 0.1,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-wBTC.atom|Astroport": {
       "lp": "LUNA-wBTC.atom",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 20.2,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-wBTC.axl|Astroport": {
       "lp": "LUNA-wBTC.axl",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 9.6,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-wBTC.osmo|Skeleton Swap": {
       "lp": "LUNA-wBTC.osmo",
       "dex": "Skeleton Swap",
       "bucket": "bluechip",
       "vote_pct": 7.5,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-wstETH|Astroport": {
       "lp": "LUNA-wstETH",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 8,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-wstETH|Skeleton Swap": {
       "lp": "LUNA-wstETH",
       "dex": "Skeleton Swap",
       "bucket": "bluechip",
       "vote_pct": 7.9,
-      "active": true
+      "active": true,
+      "single": false
     },
     "USDC-EURe|Astroport": {
       "lp": "USDC-EURe",
       "dex": "Astroport",
       "bucket": "bluechip",
       "vote_pct": 11.9,
-      "active": true
+      "active": true,
+      "single": false
     },
     "USDC-EURe|Skeleton Swap": {
       "lp": "USDC-EURe",
       "dex": "Skeleton Swap",
       "bucket": "bluechip",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "ATOM-stATOM|Astroport": {
       "lp": "ATOM-stATOM",
       "dex": "Astroport",
       "bucket": "single",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "ATOM-stATOM|Skeleton Swap": {
       "lp": "ATOM-stATOM",
       "dex": "Skeleton Swap",
       "bucket": "single",
       "vote_pct": 0,
-      "active": false
+      "active": false,
+      "single": false
     },
     "LUNA-arbLUNA|Astroport": {
       "lp": "LUNA-arbLUNA",
       "dex": "Astroport",
       "bucket": "single",
       "vote_pct": 2.3,
-      "active": true
+      "active": true,
+      "single": false
     },
     "LUNA-arbLUNA|Skeleton Swap": {
       "lp": "LUNA-arbLUNA",
       "dex": "Skeleton Swap",
       "bucket": "single",
       "vote_pct": 0.1,
-      "active": false
+      "active": false,
+      "single": false
     },
     "USDC-USDT|Astroport": {
       "lp": "USDC-USDT",
       "dex": "Astroport",
       "bucket": "single",
       "vote_pct": 15.4,
-      "active": true
+      "active": true,
+      "single": false
     },
     "USDC-USDT|Skeleton Swap": {
       "lp": "USDC-USDT",
       "dex": "Skeleton Swap",
       "bucket": "single",
       "vote_pct": 5.6,
-      "active": true
+      "active": true,
+      "single": false
+    },
+    "ampCAPA|Astroport": {
+      "lp": "ampCAPA",
+      "dex": "Astroport",
+      "bucket": "single",
+      "vote_pct": 24.4,
+      "active": true,
+      "single": true
     },
     "ampROAR-ROAR|Astroport": {
       "lp": "ampROAR-ROAR",
       "dex": "Astroport",
       "bucket": "single",
       "vote_pct": 1.9,
-      "active": true
+      "active": true,
+      "single": false
     },
     "ampROAR-ROAR|Skeleton Swap": {
       "lp": "ampROAR-ROAR",
       "dex": "Skeleton Swap",
       "bucket": "single",
       "vote_pct": 10.2,
-      "active": true
+      "active": true,
+      "single": false
     },
     "wBTC.axl-wBTC.osmo|Astroport": {
       "lp": "wBTC.axl-wBTC.osmo",
       "dex": "Astroport",
       "bucket": "single",
       "vote_pct": 25.2,
-      "active": true
+      "active": true,
+      "single": false
     },
     "wBTC.osmo-wBTC.axl|Skeleton Swap": {
       "lp": "wBTC.osmo-wBTC.axl",
       "dex": "Skeleton Swap",
       "bucket": "single",
       "vote_pct": 8.8,
-      "active": true
+      "active": true,
+      "single": false
     },
     "wstETH-wETH.axl|Astroport": {
       "lp": "wstETH-wETH.axl",
       "dex": "Astroport",
       "bucket": "single",
       "vote_pct": 4.7,
-      "active": true
+      "active": true,
+      "single": false
+    },
+    "xASTRO|Astroport": {
+      "lp": "xASTRO",
+      "dex": "Astroport",
+      "bucket": "single",
+      "vote_pct": 1.5,
+      "active": true,
+      "single": true
     }
   },
   "pd_bribes": {
