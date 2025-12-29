@@ -1,0 +1,7495 @@
+{
+  "meta": {
+    "year": 2025,
+    "last_updated": "2025-12-29",
+    "epoch_range": [
+      136,
+      161
+    ],
+    "complete_epochs": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "partial_epochs": [
+      161
+    ],
+    "lp_count": 26,
+    "notes": "E136-160 are complete averages. E161 has partial raw data from staging, waiting for 30d merge to complete."
+  },
+  "lps": {
+    "LUNA-EURe|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 73991.28,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 71351.81,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 67937.94,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 65423.01,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 86395.18,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 93760.72,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 100955.4,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 121342.55,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 188076.89,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 191010,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 196040.93,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 187746.85,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 184978.28,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 152521.94,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 160715.54,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 159624.01,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 152109.46,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 152148.83,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 132725.32,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 98751.81,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 98933.47,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 96118.08,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 90750.68,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 90805.98,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 83735.44,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 81674.78
+              },
+              {
+                "date": "2025-11-24",
+                "value": 75233.85
+              },
+              {
+                "date": "2025-11-25",
+                "value": 75739.97
+              },
+              {
+                "date": "2025-11-26",
+                "value": 76161.64
+              },
+              {
+                "date": "2025-11-27",
+                "value": 77433.2
+              },
+              {
+                "date": "2025-11-28",
+                "value": 77058
+              },
+              {
+                "date": "2025-11-29",
+                "value": 76445.4
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 7190.91,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 8358.37,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 6292.56,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 6111.21,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 7706.11,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 12391.93,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 15995.64,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 27597.46,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 33632.61,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 17931.15,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 33299.49,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 19065.07,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 20875.94,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 10833.25,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 11035.24,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 17191.83,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 15110.79,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 8242.49,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 28574.72,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 36668.35,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 12011.95,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 8528.48,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 19136.83,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 16809.83,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 17948.9,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 26658.412093999978
+              },
+              {
+                "date": "2025-11-24",
+                "value": 26253.922523999976
+              },
+              {
+                "date": "2025-11-25",
+                "value": 22350.819364
+              },
+              {
+                "date": "2025-11-26",
+                "value": 17935.162674000003
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-USDC|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "148": {
+            "avg": 936028.15,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 852346.01,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 834510.9,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 883101.15,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 886719.04,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 899309.08,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 831102.38,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 669279.16,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 708655.83,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 772524.53,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 629990.15,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 610688.99,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 574344.75,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 6,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 566295.1
+              },
+              {
+                "date": "2025-11-24",
+                "value": 558393.16
+              },
+              {
+                "date": "2025-11-25",
+                "value": 565512.46
+              },
+              {
+                "date": "2025-11-26",
+                "value": 566255.41
+              },
+              {
+                "date": "2025-11-27",
+                "value": 574526
+              },
+              {
+                "date": "2025-11-28",
+                "value": 571522
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "148": {
+            "avg": 111584.14,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 114417.81,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 176908.68,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 207482.36,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 154552.47,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 171103.81,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 350644.26,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 412107.53,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 227952.14,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 160578.06,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 290824.72,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 240614.86,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 258037.27,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 431299.0565380008
+              },
+              {
+                "date": "2025-11-24",
+                "value": 385410.7857029995
+              },
+              {
+                "date": "2025-11-25",
+                "value": 109933.22290300016
+              },
+              {
+                "date": "2025-11-26",
+                "value": 105497.296901
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-USDT|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 31249.68,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 31436.19,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 29888.57,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 29161.01,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 29588.17,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 30853.42,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 32164.57,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 32451.36,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 31060.44,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 32430.38,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 35336.67,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 59268.37,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 58680.7,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 55227.93,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 21738.73,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 21596.78,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 20529.37,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 20699.14,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 19227.42,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 17361.55,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 16503.94,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 15801.03,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 13074.75,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 12758.78,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 11862.64,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 11842.68
+              },
+              {
+                "date": "2025-11-24",
+                "value": 11762.78
+              },
+              {
+                "date": "2025-11-25",
+                "value": 11878.99
+              },
+              {
+                "date": "2025-11-26",
+                "value": 11891.19
+              },
+              {
+                "date": "2025-11-27",
+                "value": 12088.9
+              },
+              {
+                "date": "2025-11-28",
+                "value": 11983.9
+              },
+              {
+                "date": "2025-11-29",
+                "value": 11929.9
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 2276.83,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 3562.97,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 2015.31,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 2411.2,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 1590.38,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 2899.55,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 3567.39,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 5275.62,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 3135.15,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 2460.32,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 4676.99,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 4142.4,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 5427.92,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 2022.53,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 1929.64,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 1439.98,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 1274.91,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 665.41,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 2760.79,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 3005.12,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 1302.96,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 996.57,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 1914.75,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 2553.56,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 1634.77,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 3408.455400000002
+              },
+              {
+                "date": "2025-11-24",
+                "value": 4678.945832000009
+              },
+              {
+                "date": "2025-11-25",
+                "value": 4744.637915000006
+              },
+              {
+                "date": "2025-11-26",
+                "value": 4883.908135000006
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-ASTRO|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 46482.7,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 46169.5,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 43998.39,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 47528.94,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 47371.06,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 55306.44,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 71235.66,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 66512.7,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 59793.41,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 55294.21,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 51866.92,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 51717.15,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 52517.97,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 51752.96,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 56820.03,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 39578.51,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 53105.57,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 51656.91,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 48681.23,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 40311.91,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 34511,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 33712.94,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 33331.05,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 32798.64,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 30924.67,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 31018.72
+              },
+              {
+                "date": "2025-11-24",
+                "value": 32115.55
+              },
+              {
+                "date": "2025-11-25",
+                "value": 32293.99
+              },
+              {
+                "date": "2025-11-26",
+                "value": 32447.49
+              },
+              {
+                "date": "2025-11-27",
+                "value": 28297.9
+              },
+              {
+                "date": "2025-11-28",
+                "value": 27623.6
+              },
+              {
+                "date": "2025-11-29",
+                "value": 27012.8
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 7666.58,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 5267.43,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 15812.55,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 14702.95,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 6310.16,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 18601.33,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 20244.02,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 15986.2,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 13690.24,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 9725.06,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 15144.05,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 16548.88,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 13848.15,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 13359.68,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 12205.63,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 16050.84,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 7549.04,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 9816.03,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 9340.45,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 12069.41,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 7260.8,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 7389.43,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 5742.06,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 6115.68,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 8469.45,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 10027.924035
+              },
+              {
+                "date": "2025-11-24",
+                "value": 11234.566063000004
+              },
+              {
+                "date": "2025-11-25",
+                "value": 9463.228957000008
+              },
+              {
+                "date": "2025-11-26",
+                "value": 8853.464523999997
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-CAPA|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 57317.73,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 62693.43,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 60672.64,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 55155.5,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 59729.44,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 60505.87,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 28427.45,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 17608.78,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 22233.26,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 23912.55,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 30163.33,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 35912.09,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 24906.72,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 45309.53,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 37176.83,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 56065.47,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 63874.41,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 71089.23,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 57199.64,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 46519.61,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 51213.21,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 46704.24,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 39434.42,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 37329.89,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 32934.88,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 33354.91
+              },
+              {
+                "date": "2025-11-24",
+                "value": 34141.43
+              },
+              {
+                "date": "2025-11-25",
+                "value": 33603.56
+              },
+              {
+                "date": "2025-11-26",
+                "value": 33715.61
+              },
+              {
+                "date": "2025-11-27",
+                "value": 35023.5
+              },
+              {
+                "date": "2025-11-28",
+                "value": 34149.7
+              },
+              {
+                "date": "2025-11-29",
+                "value": 34550
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 3478.23,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 1669.52,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 1186.39,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 860.56,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 1319.47,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 2222.25,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 7419.87,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 11739.63,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 1009.16,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 1055.29,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 611.51,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 1024.28,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 2289.45,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 1897.59,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 1663.78,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 1000.89,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 1459.92,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 1617.48,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 4643.4,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 968.55,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 595.23,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 2526.23,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 2069.32,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 1401.46,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 553.21,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 629.5176079999999
+              },
+              {
+                "date": "2025-11-24",
+                "value": 768.812901
+              },
+              {
+                "date": "2025-11-25",
+                "value": 652.2033390000001
+              },
+              {
+                "date": "2025-11-26",
+                "value": 621.695504
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-FUEL|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "153": {
+            "avg": 702.49,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 19804.43,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 25293.44,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 41406.01,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 40612.87,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 36524.35,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 38831.86,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 32337.06,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 6,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 31842.3
+              },
+              {
+                "date": "2025-11-24",
+                "value": 41399.92
+              },
+              {
+                "date": "2025-11-25",
+                "value": 43404.11
+              },
+              {
+                "date": "2025-11-26",
+                "value": 42482.71
+              },
+              {
+                "date": "2025-11-27",
+                "value": 44493.5
+              },
+              {
+                "date": "2025-11-28",
+                "value": 44211.1
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "153": {
+            "avg": 14.33,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 1435.29,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 143.29,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 20.77,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 120.24,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 112.42,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 254.01,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 572.57,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 239.26833
+              },
+              {
+                "date": "2025-11-24",
+                "value": 74.14348899999999
+              },
+              {
+                "date": "2025-11-25",
+                "value": 375.441029
+              },
+              {
+                "date": "2025-11-26",
+                "value": 445.08916
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-ROAR|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 70223.33,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 71726.89,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 64707.58,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 59267.99,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 59157.72,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 69521.32,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 79602.15,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 83194.21,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 76167.13,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 80641.33,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 85103.54,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 84872.96,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 86089.96,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 87089.51,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 95056.98,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 91825.68,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 84597.98,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 85523.13,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 74902.31,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 55087.66,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 50300.33,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 48627.39,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 41417.16,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 41266.06,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 35278.66,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 31186.87
+              },
+              {
+                "date": "2025-11-24",
+                "value": 21809.95
+              },
+              {
+                "date": "2025-11-25",
+                "value": 28514.83
+              },
+              {
+                "date": "2025-11-26",
+                "value": 29510.05
+              },
+              {
+                "date": "2025-11-27",
+                "value": 31062.5
+              },
+              {
+                "date": "2025-11-28",
+                "value": 30818.4
+              },
+              {
+                "date": "2025-11-29",
+                "value": 30534.9
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 540.46,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 982.56,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 1103.04,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 1324.69,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 731.58,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 2632.73,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 841.77,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 809.33,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 718.63,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 2009.63,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 1532.03,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 1304.11,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 3230.27,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 1021.34,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 2454.44,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 1691.21,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 713.2,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 893.26,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 2584.77,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 2551.14,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 1260.41,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 900.38,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 1640.25,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 790.88,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 1966.6,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 10311.093664999995
+              },
+              {
+                "date": "2025-11-24",
+                "value": 11990.685341999984
+              },
+              {
+                "date": "2025-11-25",
+                "value": 20802.89405299999
+              },
+              {
+                "date": "2025-11-26",
+                "value": 21562.082329999983
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-SOLID|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 44797.92,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 47678.98,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 46949.25,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 39281.76,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 41330.58,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 43475.96,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 44010.97,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 41278.82,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 41816.17,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 39325.84,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 34282.01,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 32723.89,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 32435.71,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 46463.67,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 50370.47,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 23133.54,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 36537.29,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 40210.82,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 26981.07,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 18108.46,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 16702.09,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 16189.47,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 14955.42,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 14535.73,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 13328.46,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 13304.88
+              },
+              {
+                "date": "2025-11-24",
+                "value": 23422.45
+              },
+              {
+                "date": "2025-11-25",
+                "value": 23738.29
+              },
+              {
+                "date": "2025-11-26",
+                "value": 23744.75
+              },
+              {
+                "date": "2025-11-27",
+                "value": 24269.2
+              },
+              {
+                "date": "2025-11-28",
+                "value": 24027.8
+              },
+              {
+                "date": "2025-11-29",
+                "value": 23857.3
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 3701.74,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 4822.83,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 5071.85,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 5565.93,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 5107.47,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 4062.79,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 5218.14,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 4884.33,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 2944.91,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 1747.6,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 2424.31,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 1975.12,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 2218.7,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 2553.7,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 3821.62,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 2116.61,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 1976.6,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 1928.16,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 4215.87,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 5154.51,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 1663.05,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 1481.68,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 3430.25,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 1965.27,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 1980.2,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 3362.654631000003
+              },
+              {
+                "date": "2025-11-24",
+                "value": 3258.324573000002
+              },
+              {
+                "date": "2025-11-25",
+                "value": 2840.8289079999986
+              },
+              {
+                "date": "2025-11-26",
+                "value": 2531.9937100000006
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-SWTH|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 16982.5,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 17170.41,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 15489.6,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 14747.56,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 14170.59,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 14727.4,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 15995.43,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 16603.69,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 15519.49,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 15728.36,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 16999.79,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 17597.39,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 16768.06,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 18790.05,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 22812.49,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 24752.43,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 24069.89,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 27075.67,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 25309.17,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 20608.46,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 20372.79,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 19871.49,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 17173.11,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 16662.52,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 14560.9,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 14486.62
+              },
+              {
+                "date": "2025-11-24",
+                "value": 14350.63
+              },
+              {
+                "date": "2025-11-25",
+                "value": 14549.03
+              },
+              {
+                "date": "2025-11-26",
+                "value": 14492.49
+              },
+              {
+                "date": "2025-11-27",
+                "value": 15005.8
+              },
+              {
+                "date": "2025-11-28",
+                "value": 15006.3
+              },
+              {
+                "date": "2025-11-29",
+                "value": 14829.9
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 635.97,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 584.12,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 587.37,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 471.05,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 844.71,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 688.31,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 406.57,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 638.75,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 642.02,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 559.91,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 758,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 744.59,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 427.12,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 345.93,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 445.1,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 1203.36,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 1323.89,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 655.57,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 3234.59,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 2285.83,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 787.66,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 714.04,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 1335.98,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 795.59,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 836.31,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 1050.2470469999998
+              },
+              {
+                "date": "2025-11-24",
+                "value": 939.4797099999998
+              },
+              {
+                "date": "2025-11-25",
+                "value": 685.1182739999999
+              },
+              {
+                "date": "2025-11-26",
+                "value": 528.9874970000001
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-ampLUNA|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 401582.88,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 406060.8,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 375302.95,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 356410.47,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 367735.85,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 397820.74,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 436680.5,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 440594.78,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 402442.94,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 393720.05,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 399694.16,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 392024.24,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 384558.76,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 369469.5,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 419286.73,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 437869.3,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 413475.6,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 423548.92,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 361096.53,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 276985.15,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 276304.9,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 269741.96,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 259550.81,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 252455.15,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 220893.01,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 213744.56
+              },
+              {
+                "date": "2025-11-24",
+                "value": 210630.86
+              },
+              {
+                "date": "2025-11-25",
+                "value": 214201.82
+              },
+              {
+                "date": "2025-11-26",
+                "value": 212096.63
+              },
+              {
+                "date": "2025-11-27",
+                "value": 222414
+              },
+              {
+                "date": "2025-11-28",
+                "value": 220228
+              },
+              {
+                "date": "2025-11-29",
+                "value": 217921
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 48361.7,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 46334.45,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 41677.01,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 43353.33,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 48524.81,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 42811.96,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 43031.6,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 44047.64,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 35001.34,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 49382.29,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 45996.75,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 47487.65,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 57174.8,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 50446.68,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 46009.18,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 35679.3,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 39399.82,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 44979.07,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 41848.47,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 33688.13,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 39181.77,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 42603.39,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 38931.8,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 37303.57,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 32534.7,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 28828.513411
+              },
+              {
+                "date": "2025-11-24",
+                "value": 30978.844740999994
+              },
+              {
+                "date": "2025-11-25",
+                "value": 31073.747295000005
+              },
+              {
+                "date": "2025-11-26",
+                "value": 38696.04398500002
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-boneLUNA|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "139": {
+            "avg": 3219.67,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 3219.67,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 3334.76,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 3680.86,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 3851.1,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 24275.37,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 29631.22,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 24783.98,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 17549.07,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 16607.82,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 19137.33,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 18266.56,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 18408.25,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 34446.21,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 40980.38
+              },
+              {
+                "date": "2025-11-24",
+                "value": 43144.37
+              },
+              {
+                "date": "2025-11-25",
+                "value": 38436.33
+              },
+              {
+                "date": "2025-11-26",
+                "value": 37984.59
+              },
+              {
+                "date": "2025-11-27",
+                "value": 39798.6
+              },
+              {
+                "date": "2025-11-28",
+                "value": 39407.1
+              },
+              {
+                "date": "2025-11-29",
+                "value": 38808.4
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 8.86,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 66.38,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 57.99,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 17.95,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 56.45,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 306.15,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 508.94,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 250.27,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 97.8,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 93.87,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 71.65,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 370.13,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 70.71,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 4992.14,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 961.79,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 177.59,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 618.36,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 261.06,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 480.66,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 371.67,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 270.74,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 303.56,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 84.88,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 71.98,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 1438.22,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 199.767086
+              },
+              {
+                "date": "2025-11-24",
+                "value": 2337.526296
+              },
+              {
+                "date": "2025-11-25",
+                "value": 2337.526296
+              },
+              {
+                "date": "2025-11-26",
+                "value": 2337.38679
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-stLUNA|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 13357.05,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 12835.12,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 11534.54,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 11014.03,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 11429.15,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 11917.58,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 12405.03,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 13335.1,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 12647.43,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 12554.64,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 13964.96,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 14491.12,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 15037.58,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 12782.86,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 4883.08,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 10405.75,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 16409.38,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 16665.3,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 12815.47,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 8068.59,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 7855.33,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 8460.77,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 7515.77,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 7552.24,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 6485.2,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 5707.21
+              },
+              {
+                "date": "2025-11-24",
+                "value": 5751.86
+              },
+              {
+                "date": "2025-11-25",
+                "value": 5976.96
+              },
+              {
+                "date": "2025-11-26",
+                "value": 5989.89
+              },
+              {
+                "date": "2025-11-27",
+                "value": 6187
+              },
+              {
+                "date": "2025-11-28",
+                "value": 6125.88
+              },
+              {
+                "date": "2025-11-29",
+                "value": 6032.12
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 0.06,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 376.71,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 104.56,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 36.84,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 18,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 14.34,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 386.06,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 9.99,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 4.93,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 21.92,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 0.31,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 0.28,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 2.5,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 97.26,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 242.75,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 109.85,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 28.83,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 20.34,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 4.84,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 13.87,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 150.38,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 88.59,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 12.22,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 25.29,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 21.06,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 2e-06
+              },
+              {
+                "date": "2025-11-24",
+                "value": 2e-06
+              },
+              {
+                "date": "2025-11-25",
+                "value": 32.074465999999994
+              },
+              {
+                "date": "2025-11-26",
+                "value": 32.074465999999994
+              }
+            ]
+          }
+        }
+      }
+    },
+    "USDC-SOLID|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 74816.66,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 94648.76,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 96058.58,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 97776.4,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 89682.87,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 93842.05,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 96616.5,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 101823.51,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 102688.95,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 103070.92,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 107528.07,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 107111.46,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 106289.21,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 104456.7,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 106741.29,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 133761.24,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 125826.14,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 128182.43,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 127129.34,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 130865.63,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 132378.56,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 131657.36,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 104717.95,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 104497.8,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 96967.22,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 98155.31
+              },
+              {
+                "date": "2025-11-24",
+                "value": 87793.2
+              },
+              {
+                "date": "2025-11-25",
+                "value": 88040.5
+              },
+              {
+                "date": "2025-11-26",
+                "value": 88209.7
+              },
+              {
+                "date": "2025-11-27",
+                "value": 88655.4
+              },
+              {
+                "date": "2025-11-28",
+                "value": 88503.5
+              },
+              {
+                "date": "2025-11-29",
+                "value": 88004.3
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 5737.78,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 10841.13,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 9107.54,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 7962.79,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 6971.64,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 6895.1,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 5640.08,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 6325.13,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 4268.87,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 2540.57,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 3954.33,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 3258.54,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 4034.11,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 5178,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 9801.33,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 8234.61,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 2472.46,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 3790.27,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 6823.37,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 7340.36,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 4448.07,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 5099.29,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 13050.9,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 4996.39,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 3816.77,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 6228.848810999995
+              },
+              {
+                "date": "2025-11-24",
+                "value": 6022.522282999994
+              },
+              {
+                "date": "2025-11-25",
+                "value": 4762.7441910000025
+              },
+              {
+                "date": "2025-11-26",
+                "value": 3624.564308999999
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-ATOM|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 91028.12,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 84858.9,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 78269.14,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 76964.98,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 60878.91,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 69432.2,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 78769.32,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 82260.65,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 83600.76,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 85790.52,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 85419.16,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 80507.47,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 73282.59,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 97714.92,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 56497.33,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 51499.42,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 52575.95,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 53279.85,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 47903.48,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 39164.5,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 40550.79,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 41037.72,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 39669.91,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 41821.06,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 31145.36,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 27232.65
+              },
+              {
+                "date": "2025-11-24",
+                "value": 40169.54
+              },
+              {
+                "date": "2025-11-25",
+                "value": 40906.44
+              },
+              {
+                "date": "2025-11-26",
+                "value": 40430.01
+              },
+              {
+                "date": "2025-11-27",
+                "value": 42169.1
+              },
+              {
+                "date": "2025-11-28",
+                "value": 41707.9
+              },
+              {
+                "date": "2025-11-29",
+                "value": 40604.8
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 7512.81,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 24221.09,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 5564.63,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 4486.97,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 4871.11,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 32688.84,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 23107.52,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 45713.21,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 38683.97,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 34522.76,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 11516.92,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 6995.8,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 11104.08,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 8364.68,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 5147.16,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 15209.92,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 6674.28,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 13620.64,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 9066.88,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 16405.61,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 7614.55,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 3476.28,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 8536.39,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 5772.41,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 8709.25,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 12232.812962000015
+              },
+              {
+                "date": "2025-11-24",
+                "value": 10525.833486000003
+              },
+              {
+                "date": "2025-11-25",
+                "value": 8495.488894999995
+              },
+              {
+                "date": "2025-11-26",
+                "value": 7043.663302000002
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-INJ|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 72048.32,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 62299.84,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 57470.4,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 59000.51,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 44268.75,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 55649.3,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 38591.94,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 44404.64,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 46793.58,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 44219.72,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 48115.53,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 52727.46,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 55390.7,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 50824.16,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 47798.4,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 41178.94,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 4890.71,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 4848.79,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 4613.85,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 3204.19,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 2087.56,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 1901.45,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 1901.45,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 1901.45,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 1901.45,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 1901.45
+              },
+              {
+                "date": "2025-11-24",
+                "value": 1901.45
+              },
+              {
+                "date": "2025-11-25",
+                "value": 1901.45
+              },
+              {
+                "date": "2025-11-26",
+                "value": 1901.45
+              },
+              {
+                "date": "2025-11-27",
+                "value": 1408.02
+              },
+              {
+                "date": "2025-11-28",
+                "value": 1402.78
+              },
+              {
+                "date": "2025-11-29",
+                "value": 1353.78
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 6561.48,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 6918.32,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 4106.32,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 4314.62,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 4441.3,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 4423.85,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 3836.89,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 5210.26,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 3802.4,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 2864.57,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 4213.12,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 6477.86,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 4496.82,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 4423.46,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 2366.9,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 2735.63,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 1514.61,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 474.07,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 1354.58,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 1173.55,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 239.17,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 143.31,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 154.33,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 173.68,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 251.34,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 280.82758899999993
+              },
+              {
+                "date": "2025-11-24",
+                "value": 534.106349
+              },
+              {
+                "date": "2025-11-25",
+                "value": 478.36341099999987
+              },
+              {
+                "date": "2025-11-26",
+                "value": 453.36992099999986
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-PAXG|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "159": {
+            "avg": 74699.05,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 73620.79,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 6,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 77840.19
+              },
+              {
+                "date": "2025-11-24",
+                "value": 77512.19
+              },
+              {
+                "date": "2025-11-25",
+                "value": 80900.18
+              },
+              {
+                "date": "2025-11-26",
+                "value": 80489.99
+              },
+              {
+                "date": "2025-11-27",
+                "value": 82297.1
+              },
+              {
+                "date": "2025-11-28",
+                "value": 82339.3
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "159": {
+            "avg": 1085.62,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 611.39,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 1,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-26",
+                "value": 170.16749000000002
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-wBNB.axl|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 6245.13,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 6245.13,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 6245.13,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 6245.13,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 6245.13,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 46.35,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 4387.28,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 5165.42,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 4876.98,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 5553.76,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 6500.21,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 6645.24,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 1773.87,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 972.87,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 77253.58,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 85670.94,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 81620.46,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 87933.28,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 29285.26,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 17074.2,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 17074.2,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 3239.14,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 814.78,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 814.78,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 814.78,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 814.78
+              },
+              {
+                "date": "2025-11-24",
+                "value": 814.78
+              },
+              {
+                "date": "2025-11-25",
+                "value": 814.78
+              },
+              {
+                "date": "2025-11-26",
+                "value": 814.78
+              },
+              {
+                "date": "2025-11-27",
+                "value": 716.79
+              },
+              {
+                "date": "2025-11-28",
+                "value": 714.84
+              },
+              {
+                "date": "2025-11-29",
+                "value": 701.27
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 137.56,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 50.32,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 99.55,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 132.55,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 376.3,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 199.56,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 156.42,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 99.58,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 69.32,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 82.48,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 4732.18,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 291.03,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 2068.27,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 1417.59,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 1895.14,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 797.49,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 509.36,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 92.54,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 11.86,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 12.19,
+            "days": 7,
+            "complete": true
+          }
+        }
+      }
+    },
+    "LUNA-wBTC.atom|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "144": {
+            "avg": 83033.15,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 87101.22,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 90136.9,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 101629.37,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 119504.21,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 131518.29,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 138951.72,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 139642,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 133287.76,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 135637.14,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 164993.85,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 139523.4,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 135696.38,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 132915.12,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 119214.94,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 93906.22,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 82178.2,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 82903.23
+              },
+              {
+                "date": "2025-11-24",
+                "value": 90004.2
+              },
+              {
+                "date": "2025-11-25",
+                "value": 90775.8
+              },
+              {
+                "date": "2025-11-26",
+                "value": 91366.45
+              },
+              {
+                "date": "2025-11-27",
+                "value": 95761.7
+              },
+              {
+                "date": "2025-11-28",
+                "value": 95816
+              },
+              {
+                "date": "2025-11-29",
+                "value": 94281.6
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "144": {
+            "avg": 3080,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 7345.79,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 10072.59,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 14102.37,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 10546.45,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 5761.54,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 11433.58,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 16007.42,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 10210.62,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 6668.82,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 28719.48,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 40240.6,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 15247.4,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 8847.01,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 17113.93,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 12487.09,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 11593.02,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 19202.83752800001
+              },
+              {
+                "date": "2025-11-24",
+                "value": 18790.424250000025
+              },
+              {
+                "date": "2025-11-25",
+                "value": 17335.236334000023
+              },
+              {
+                "date": "2025-11-26",
+                "value": 14855.557815999995
+              }
+            ]
+          }
+        }
+      }
+    },
+    "wBTC.axl-wBTC.osmo|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 201670.7,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 183337.76,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 144427.72,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 155375.45,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 181078.12,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 173108.32,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 212576.7,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 215100.91,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 214997.75,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 215708.46,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 212505.49,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 208828.32,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 207552.64,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 182369.3,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 184160.35,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 220581.6,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 242123.65,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 295755.71,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 285403.18,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 193261.05,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 191446.6,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 194738.32,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 181328.77,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 178615.6,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 118764,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 106768.12
+              },
+              {
+                "date": "2025-11-24",
+                "value": 106700.66
+              },
+              {
+                "date": "2025-11-25",
+                "value": 127645.7
+              },
+              {
+                "date": "2025-11-26",
+                "value": 132916.97
+              },
+              {
+                "date": "2025-11-27",
+                "value": 140091
+              },
+              {
+                "date": "2025-11-28",
+                "value": 142601
+              },
+              {
+                "date": "2025-11-29",
+                "value": 140292
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 1208.72,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 2637.76,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 2494.9,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 2323.35,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 2734.95,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 1764.76,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 3519.65,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 2515.74,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 2766.13,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 3552.99,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 7181.4,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 2830.42,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 4397.01,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 5592.48,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 4020.92,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 2780.29,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 6459.82,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 8568.68,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 5959.2,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 5908.19,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 4295.11,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 3029.46,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 4731.64,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 5265.1,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 5254,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 10514.033541999996
+              },
+              {
+                "date": "2025-11-24",
+                "value": 10701.666527999989
+              },
+              {
+                "date": "2025-11-25",
+                "value": 7849.889164000001
+              },
+              {
+                "date": "2025-11-26",
+                "value": 7111.866678
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-wstETH|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 8034.91,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 8175.31,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 7535.99,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 5318.59,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 166.83,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 166.83,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 5363.45,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 8221.68,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 7629.53,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 7902.41,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 8270.56,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 7939.25,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 7923.3,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 7743.96,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 596.25,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 259.14,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 257.48,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 256.11,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 252.7,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 252.7,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 252.7,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 252.7,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 252.7,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 252.7,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 16936.14,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 16596.09
+              },
+              {
+                "date": "2025-11-24",
+                "value": 21229.99
+              },
+              {
+                "date": "2025-11-25",
+                "value": 21899.33
+              },
+              {
+                "date": "2025-11-26",
+                "value": 21690.28
+              },
+              {
+                "date": "2025-11-27",
+                "value": 22721.2
+              },
+              {
+                "date": "2025-11-28",
+                "value": 22905.3
+              },
+              {
+                "date": "2025-11-29",
+                "value": 22593.4
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 260.25,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 440.82,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 637.57,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 325.51,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 68.6,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 3.73,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 731.65,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 1036.34,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 796.07,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 357.08,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 1426.46,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 1044.82,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 1341.96,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 2889.41,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 254.53,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 162.04,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 44.81,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 3.56,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 31.41,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 19.84,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 11.14,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 2.58,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 9.64,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 13.86,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 2737.81,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 4163.193515000002
+              },
+              {
+                "date": "2025-11-24",
+                "value": 3577.2883750000015
+              },
+              {
+                "date": "2025-11-25",
+                "value": 3123.0517700000014
+              },
+              {
+                "date": "2025-11-26",
+                "value": 2805.5713220000016
+              }
+            ]
+          }
+        }
+      }
+    },
+    "USDC-EURe|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 195473.49,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 205009.13,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 219484.9,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 227647.73,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 240837.46,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 292048.88,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 342346.35,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 351496.88,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 375995.88,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 346052.48,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 373220.32,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 407562.01,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 347726.97,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 297278.9,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 297064.35,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 281947.39,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 278367.29,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 265565.51,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 268949.19,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 263342.16,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 275606.53,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 278862.11,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 274465.24,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 262782.71,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 243733.71,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 235292.12
+              },
+              {
+                "date": "2025-11-24",
+                "value": 236324.64
+              },
+              {
+                "date": "2025-11-25",
+                "value": 232021.68
+              },
+              {
+                "date": "2025-11-26",
+                "value": 224190.66
+              },
+              {
+                "date": "2025-11-27",
+                "value": 220772
+              },
+              {
+                "date": "2025-11-28",
+                "value": 218917
+              },
+              {
+                "date": "2025-11-29",
+                "value": 220821
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 9839.44,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 16508.83,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 12671.64,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 10819.81,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 14706.01,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 29445.16,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 27487.49,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 36984.16,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 55110.7,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 29834.77,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 49553.52,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 20948.6,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 18554.71,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 24207.41,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 14618.92,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 26410.61,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 14681.31,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 11249.62,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 24079.87,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 32456.04,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 17276.43,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 11924.88,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 26915.4,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 25384.24,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 22776.24,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 32982.941716999994
+              },
+              {
+                "date": "2025-11-24",
+                "value": 33547.18974699999
+              },
+              {
+                "date": "2025-11-25",
+                "value": 30732.39271699999
+              },
+              {
+                "date": "2025-11-26",
+                "value": 29227.20213700001
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ATOM-stATOM|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 88058.67,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 87837.22,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 82069.55,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 81367.43,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 84312.84,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 89852.26,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 96472.2,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 98973.8,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 70518.98,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 34169.42,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 12621.38,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 5391.21,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 2326.39,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 1257.81,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 1257.81,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 13576.53,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 14123.76,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 14258.92,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 10530.57,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 2460.48,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 1342.55,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 1342.55,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 850.83,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 850.83,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 850.83,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 850.83
+              },
+              {
+                "date": "2025-11-24",
+                "value": 850.83
+              },
+              {
+                "date": "2025-11-25",
+                "value": 850.83
+              },
+              {
+                "date": "2025-11-26",
+                "value": 850.83
+              },
+              {
+                "date": "2025-11-27",
+                "value": 765.76
+              },
+              {
+                "date": "2025-11-28",
+                "value": 753.97
+              },
+              {
+                "date": "2025-11-29",
+                "value": 732.13
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 408.75,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 224.55,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 834.46,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 550.84,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 38.64,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 109.43,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 508.41,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 329.47,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 67.06,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 127.77,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 63.72,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 29.71,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 3.49,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 3.77,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 4.99,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 1207.7,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 119.73,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 59.92,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 267.3,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 412.26,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 21.02,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 4.06,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 2.57,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 46.59,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 34.38,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 50.197298
+              },
+              {
+                "date": "2025-11-24",
+                "value": 70.566698
+              },
+              {
+                "date": "2025-11-25",
+                "value": 98.52539999999999
+              },
+              {
+                "date": "2025-11-26",
+                "value": 108.3015
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-arbLUNA|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "149": {
+            "avg": 67097.39,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 98797.74,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 111731.32,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 84371.23,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 82531.33,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 68705.13,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 46740.54,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 39320.99,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 42936.76,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 40800.73,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 42567.82,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 43941.46,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 49842.38
+              },
+              {
+                "date": "2025-11-24",
+                "value": 15638.56
+              },
+              {
+                "date": "2025-11-25",
+                "value": 4209.49
+              },
+              {
+                "date": "2025-11-26",
+                "value": 4209.49
+              },
+              {
+                "date": "2025-11-27",
+                "value": 3944.71
+              },
+              {
+                "date": "2025-11-28",
+                "value": 3460.55
+              },
+              {
+                "date": "2025-11-29",
+                "value": 3407.31
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "149": {
+            "avg": 1887.45,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 1698.89,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 1729.01,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 259.63,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 1125.35,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 1673.16,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 5005.35,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 6569.46,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 1125.2,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 1791.96,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 412.19,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 439.13,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 100.5012
+              },
+              {
+                "date": "2025-11-24",
+                "value": 2744.7308700000003
+              },
+              {
+                "date": "2025-11-25",
+                "value": 2744.7308700000003
+              },
+              {
+                "date": "2025-11-26",
+                "value": 2744.7308700000003
+              }
+            ]
+          }
+        }
+      }
+    },
+    "USDC-USDT|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 317128.77,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 329273.67,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 319232.81,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 317647.8,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 318855.43,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 336571.02,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 347139.36,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 353359.68,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 352658.83,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 352053.34,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 351430.54,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 347603.6,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 345138.4,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 328299.89,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 324432.87,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 378500.7,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 254084.44,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 262032.09,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 269763.9,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 215234.28,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 214655.89,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 214744.25,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 217805.08,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 223252.41,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 223767.69,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 224059.9
+              },
+              {
+                "date": "2025-11-24",
+                "value": 224141.32
+              },
+              {
+                "date": "2025-11-25",
+                "value": 234052.96
+              },
+              {
+                "date": "2025-11-26",
+                "value": 247173.02
+              },
+              {
+                "date": "2025-11-27",
+                "value": 260848
+              },
+              {
+                "date": "2025-11-28",
+                "value": 261748
+              },
+              {
+                "date": "2025-11-29",
+                "value": 261880
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 17161.91,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 13378.15,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 6258.54,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 8094.39,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 4215.99,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 12681.48,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 9181.82,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 11115.13,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 5792.45,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 7300.06,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 8118.67,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 16444.99,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 10496.4,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 7236.84,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 4141.49,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 3564.74,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 7732.82,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 11798.72,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 9612.51,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 8047.77,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 4250.08,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 3385.74,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 4759.71,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 4497.13,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 3964.87,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 7526.164166999998
+              },
+              {
+                "date": "2025-11-24",
+                "value": 7302.3895289999955
+              },
+              {
+                "date": "2025-11-25",
+                "value": 9099.196502999996
+              },
+              {
+                "date": "2025-11-26",
+                "value": 9663.372122999994
+              }
+            ]
+          }
+        }
+      }
+    },
+    "LUNA-wBTC.axl|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 63034.71,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 62135.03,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 57667.84,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 53035.43,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 50595.73,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 52551.2,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 54990.81,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 55490.09,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 54736.25,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 55871.69,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 56811.94,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 55877.36,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 62542.13,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 55677.2,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 46971.48,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 47417.79,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 52550.72,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 87859.48,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 103082.84,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 97859.96,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 104264.82,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 107600.01,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 95675.18,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 88362.53,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 75474.19,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 74651.69
+              },
+              {
+                "date": "2025-11-24",
+                "value": 45268.7
+              },
+              {
+                "date": "2025-11-25",
+                "value": 45966.25
+              },
+              {
+                "date": "2025-11-26",
+                "value": 45447.26
+              },
+              {
+                "date": "2025-11-27",
+                "value": 47953.3
+              },
+              {
+                "date": "2025-11-28",
+                "value": 47732.6
+              },
+              {
+                "date": "2025-11-29",
+                "value": 46959.2
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 3103.24,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 7613.48,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 8507.25,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 8496.78,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 7856.86,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 7731.63,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 11471.8,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 9051.14,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 7289.49,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 7144.57,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 16178.2,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 7306.24,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 12423.71,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 9036.82,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 6593.99,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 4482.79,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 10330.37,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 13728.34,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 14025.13,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 21299.09,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 14361.66,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 7400.56,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 17344.31,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 22965.8,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 19377.15,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 32517.074517999958
+              },
+              {
+                "date": "2025-11-24",
+                "value": 30971.029460999984
+              },
+              {
+                "date": "2025-11-25",
+                "value": 27010.78808600001
+              },
+              {
+                "date": "2025-11-26",
+                "value": 20120.272716
+              }
+            ]
+          }
+        }
+      }
+    },
+    "wstETH-wETH.axl|Astroport": {
+      "liquidity": {
+        "epochs": {
+          "136": {
+            "avg": 27403.86,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 27353.81,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 25125.82,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 24004.04,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 16866.53,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 19935.9,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 27224.26,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 27035.36,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 29786.03,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 32883.95,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 38748,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 35751.64,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 42171.91,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 5032.5,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 41774.82,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 73505.35,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 68626.59,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 74111.51,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 73054.9,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 68612.95,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 69775.84,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 79117.95,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 71172.54,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 71893.44,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 64017.86,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 7,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 63531.21
+              },
+              {
+                "date": "2025-11-24",
+                "value": 58102.05
+              },
+              {
+                "date": "2025-11-25",
+                "value": 48830.05
+              },
+              {
+                "date": "2025-11-26",
+                "value": 43212.17
+              },
+              {
+                "date": "2025-11-27",
+                "value": 48595.4
+              },
+              {
+                "date": "2025-11-28",
+                "value": 49261.2
+              },
+              {
+                "date": "2025-11-29",
+                "value": 48120.2
+              }
+            ]
+          }
+        }
+      },
+      "volume": {
+        "epochs": {
+          "136": {
+            "avg": 12.03,
+            "days": 7,
+            "complete": true
+          },
+          "137": {
+            "avg": 350.09,
+            "days": 7,
+            "complete": true
+          },
+          "138": {
+            "avg": 360,
+            "days": 7,
+            "complete": true
+          },
+          "139": {
+            "avg": 386.52,
+            "days": 7,
+            "complete": true
+          },
+          "140": {
+            "avg": 58.82,
+            "days": 7,
+            "complete": true
+          },
+          "141": {
+            "avg": 193.82,
+            "days": 7,
+            "complete": true
+          },
+          "142": {
+            "avg": 362.24,
+            "days": 7,
+            "complete": true
+          },
+          "143": {
+            "avg": 308.8,
+            "days": 7,
+            "complete": true
+          },
+          "144": {
+            "avg": 587.55,
+            "days": 7,
+            "complete": true
+          },
+          "145": {
+            "avg": 169.81,
+            "days": 7,
+            "complete": true
+          },
+          "146": {
+            "avg": 2693.21,
+            "days": 7,
+            "complete": true
+          },
+          "147": {
+            "avg": 1159.45,
+            "days": 7,
+            "complete": true
+          },
+          "148": {
+            "avg": 382.2,
+            "days": 7,
+            "complete": true
+          },
+          "149": {
+            "avg": 1498.01,
+            "days": 7,
+            "complete": true
+          },
+          "150": {
+            "avg": 707.98,
+            "days": 7,
+            "complete": true
+          },
+          "151": {
+            "avg": 167.99,
+            "days": 7,
+            "complete": true
+          },
+          "152": {
+            "avg": 268.74,
+            "days": 7,
+            "complete": true
+          },
+          "153": {
+            "avg": 138.61,
+            "days": 7,
+            "complete": true
+          },
+          "154": {
+            "avg": 359.72,
+            "days": 7,
+            "complete": true
+          },
+          "155": {
+            "avg": 620.52,
+            "days": 7,
+            "complete": true
+          },
+          "156": {
+            "avg": 504.56,
+            "days": 7,
+            "complete": true
+          },
+          "157": {
+            "avg": 874.37,
+            "days": 7,
+            "complete": true
+          },
+          "158": {
+            "avg": 244.83,
+            "days": 7,
+            "complete": true
+          },
+          "159": {
+            "avg": 722.19,
+            "days": 7,
+            "complete": true
+          },
+          "160": {
+            "avg": 795.48,
+            "days": 7,
+            "complete": true
+          },
+          "161": {
+            "avg": null,
+            "days": 4,
+            "complete": false,
+            "raw": [
+              {
+                "date": "2025-11-23",
+                "value": 286.444797
+              },
+              {
+                "date": "2025-11-24",
+                "value": 412.778242
+              },
+              {
+                "date": "2025-11-25",
+                "value": 725.6214450000001
+              },
+              {
+                "date": "2025-11-26",
+                "value": 715.911329
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
