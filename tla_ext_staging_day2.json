@@ -452,7 +452,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:05:56.539Z"
+      "capturedAt": "2025-12-31T06:05:56.539Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-USDC|Astroport": {
       "liquidity": [
@@ -684,7 +686,9 @@
       ],
       "volume": [],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:06:41.274Z"
+      "capturedAt": "2025-12-31T06:06:41.274Z",
+      "liqUnavailable": false,
+      "volUnavailable": true
     },
     "LUNA-USDT|Astroport": {
       "liquidity": [
@@ -1137,7 +1141,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:07:21.868Z"
+      "capturedAt": "2025-12-31T06:07:21.868Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-ASTRO|Astroport": {
       "liquidity": [
@@ -1590,7 +1596,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:08:21.582Z"
+      "capturedAt": "2025-12-31T06:08:21.582Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-CAPA|Astroport": {
       "liquidity": [
@@ -2043,7 +2051,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:08:56.948Z"
+      "capturedAt": "2025-12-31T06:08:56.948Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-FUEL|Astroport": {
       "liquidity": [
@@ -2271,7 +2281,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:09:36.766Z"
+      "capturedAt": "2025-12-31T06:09:36.766Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-ROAR|Astroport": {
       "liquidity": [
@@ -2724,7 +2736,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:10:22.615Z"
+      "capturedAt": "2025-12-31T06:10:22.615Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-SOLID|Astroport": {
       "liquidity": [
@@ -3177,7 +3191,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:11:18.731Z"
+      "capturedAt": "2025-12-31T06:11:18.731Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-SWTH|Astroport": {
       "liquidity": [
@@ -3630,7 +3646,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:11:50.703Z"
+      "capturedAt": "2025-12-31T06:11:50.703Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-ampLUNA|Astroport": {
       "liquidity": [
@@ -4083,7 +4101,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:12:37.626Z"
+      "capturedAt": "2025-12-31T06:12:37.626Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-boneLUNA|Astroport": {
       "liquidity": [
@@ -4526,7 +4546,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:13:33.516Z"
+      "capturedAt": "2025-12-31T06:13:33.516Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-stLUNA|Astroport": {
       "liquidity": [
@@ -4964,7 +4986,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:14:09.662Z"
+      "capturedAt": "2025-12-31T06:14:09.662Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "USDC-SOLID|Astroport": {
       "liquidity": [
@@ -5417,7 +5441,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:15:09.890Z"
+      "capturedAt": "2025-12-31T06:15:09.890Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-ATOM|Astroport": {
       "liquidity": [
@@ -5870,7 +5896,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:15:42.735Z"
+      "capturedAt": "2025-12-31T06:15:42.735Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-INJ|Astroport": {
       "liquidity": [
@@ -6323,7 +6351,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:16:21.238Z"
+      "capturedAt": "2025-12-31T06:16:21.238Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-PAXG|Astroport": {
       "liquidity": [
@@ -6456,7 +6486,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:16:55.463Z"
+      "capturedAt": "2025-12-31T06:16:55.463Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-wBNB.axl|Astroport": {
       "liquidity": [
@@ -6829,7 +6861,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:17:35.564Z"
+      "capturedAt": "2025-12-31T06:17:35.564Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-wBTC.atom|Astroport": {
       "liquidity": [
@@ -7232,7 +7266,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:18:13.785Z"
+      "capturedAt": "2025-12-31T06:18:13.785Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-wBTC.axl|Astroport": {
       "liquidity": [
@@ -7685,7 +7721,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:18:54.327Z"
+      "capturedAt": "2025-12-31T06:18:54.327Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-wstETH|Astroport": {
       "liquidity": [
@@ -8128,7 +8166,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:20:05.260Z"
+      "capturedAt": "2025-12-31T06:20:05.260Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "USDC-EURe|Astroport": {
       "liquidity": [
@@ -8581,7 +8621,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:20:45.396Z"
+      "capturedAt": "2025-12-31T06:20:45.396Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "ATOM-stATOM|Astroport": {
       "liquidity": [
@@ -9029,7 +9071,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:21:22.944Z"
+      "capturedAt": "2025-12-31T06:21:22.944Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "LUNA-arbLUNA|Astroport": {
       "liquidity": [
@@ -9342,7 +9386,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:22:02.488Z"
+      "capturedAt": "2025-12-31T06:22:02.488Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "USDC-USDT|Astroport": {
       "liquidity": [
@@ -9795,7 +9841,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:22:35.375Z"
+      "capturedAt": "2025-12-31T06:22:35.375Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "wBTC.axl-wBTC.osmo|Astroport": {
       "liquidity": [
@@ -10248,7 +10296,9 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:23:14.815Z"
+      "capturedAt": "2025-12-31T06:23:14.815Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "wstETH-wETH.axl|Astroport": {
       "liquidity": [
@@ -10701,13 +10751,17 @@
         }
       ],
       "notAvailable": false,
-      "capturedAt": "2025-12-31T06:24:07.849Z"
+      "capturedAt": "2025-12-31T06:24:07.849Z",
+      "liqUnavailable": false,
+      "volUnavailable": false
     },
     "ampROAR-ROAR|Astroport": {
       "liquidity": [],
       "volume": [],
       "notAvailable": true,
-      "capturedAt": "2025-12-31T06:24:19.631Z"
+      "capturedAt": "2025-12-31T06:24:19.631Z",
+      "liqUnavailable": true,
+      "volUnavailable": true
     }
   }
 }
