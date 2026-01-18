@@ -551,5 +551,82 @@
         "luna_per_epoch": 94
       }
     ]
+  },
+  {
+    "epoch_range": "[168-171]",
+    "start_epoch": 168,
+    "end_epoch": 171,
+    "bribes": [
+      {
+        "gauge": "project",
+        "pool": "AMPLUNA-LUNA",
+        "percent": 61.23,
+        "usd_per_epoch": 100,
+        "luna_per_epoch": 1141.06
+      },
+      {
+        "gauge": "project",
+        "pool": "ASTRO-LUNA",
+        "percent": 20.61,
+        "usd_per_epoch": 30,
+        "luna_per_epoch": 342.32
+      },
+      {
+        "gauge": "bluechip",
+        "pool": "ATOM-LUNA",
+        "percent": 31.24,
+        "usd_per_epoch": 30,
+        "luna_per_epoch": 342.32
+      },
+      {
+        "gauge": "bluechip",
+        "pool": "LUNA-WBTC",
+        "percent": 23.66,
+        "usd_per_epoch": 30,
+        "luna_per_epoch": 342.32
+      },
+      {
+        "gauge": "bluechip",
+        "pool": "LUNA-WSTETH",
+        "percent": 16.03,
+        "usd_per_epoch": 20,
+        "luna_per_epoch": 228.21
+      },
+      {
+        "gauge": "bluechip",
+        "pool": "EURE-USDC",
+        "percent": 12.36,
+        "usd_per_epoch": 20,
+        "luna_per_epoch": 228.21
+      },
+      {
+        "gauge": "single",
+        "pool": "USDC-USDT",
+        "percent": 81.63,
+        "usd_per_epoch": 120,
+        "luna_per_epoch": 1369.27
+      },
+      {
+        "gauge": "single",
+        "pool": "WETH.AXL-WSTETH",
+        "percent": 6.73,
+        "usd_per_epoch": 20,
+        "luna_per_epoch": 228.21
+      },
+      {
+        "gauge": "single",
+        "pool": "WBTC.AXL-WBTC.OSMO",
+        "percent": 5.84,
+        "usd_per_epoch": 20,
+        "luna_per_epoch": 228.21
+      },
+      {
+        "gauge": "single",
+        "pool": "ARBLUNA-LUNA",
+        "percent": 5.63,
+        "usd_per_epoch": 20,
+        "luna_per_epoch": 228.21
+      }
+    ]
   }
 ]
